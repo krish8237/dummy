@@ -1,0 +1,22 @@
+Job Description  
+
+Key Responsibilities:  
+Develop, test, and deploy data processing applications using Apache Spark and Scala.  
+Optimize and tune Spark applications for better performance on large-scale data sets.  
+Work with the Cloudera Hadoop ecosystem (e.g., HDFS, Hive, Impala, HBase, Kafka) to build data pipelines and storage solutions.  
+Collaborate with data scientists, business analysts, and other developers to understand data requirements and deliver solutions.  
+Design and implement high-performance data processing and analytics solutions.  
+Ensure data integrity, accuracy, and security across all processing tasks.  
+Troubleshoot and resolve performance issues in Spark, Cloudera, and related technologies.  
+Implement version control and CI/CD pipelines for Spark applications.  
+
+Required Skills & Experience:  
+Minimum 8 years of experience in application development.  
+Strong hands-on experience in Apache Spark, Scala, and Spark SQL for distributed data processing.  
+Hands-on experience with Cloudera Hadoop (CDH) components such as HDFS, Hive, Impala, HBase, Kafka, and Sqoop.  
+Familiarity with other Big Data technologies, including Apache Kafka, Flume, Oozie, and Nifi.  
+Experience building and optimizing ETL pipelines using Spark and working with structured and unstructured data.  
+Experience with SQL and NoSQL databases such as HBase, Hive, and PostgreSQL.  
+Knowledge of data warehousing concepts, dimensional modeling, and data lakes.  
+Ability to troubleshoot and optimize Spark and Cloudera platform performance.  
+Familiarity with version control tools like Git and CI/CD tools (e.g., Jenkins, GitLab).  
